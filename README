@@ -1,0 +1,47 @@
+This file is part of ScreenSpaceAmbientOcclusion.
+
+SSAO is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+SSAO is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Lesser General Public License for more details.
+
+You should have received a copy of the GNU Lesser General Public License
+along with SSAO.  If not, see <http://www.gnu.org/licenses/>.
+
+                      __  .__              ________ 
+  ______ ____   _____/  |_|__| ____   ____/   __   \
+ /  ___// __ \_/ ___\   __\  |/  _ \ /    \____    /
+ \___ \\  ___/\  \___|  | |  (  <_> )   |  \ /    / 
+/____  >\___  >\___  >__| |__|\____/|___|  //____/  .co.uk
+     \/     \/     \/                    \/         
+
+THE GHOST IN THE CSH
+
+
+Author: Benjamin Blundell (oni)
+Email: oni@section9.co.uk
+Web: http://www.section9.co.uk
+Blog: http://blog.section9.co.uk
+
+
+COMPILING
+
+To create your own version you'll need xCode preferably. However, as this is OpenFrameworks
+thereis a good chance that this will compile for Windows though probably without the video
+recording bit. You'll also need to create your own Code::Blocks project.
+
+There are several add-ons you'll need; all are available from the Openframeworks Contributed
+Add-Ons page. MSAInteractiveObject, XMLSettings, OpenCV and GuiTool are the ones you'll need.
+Although I have included them using my paths you'll need to make sure they exist.
+
+You should place all this inside a directory called 
+'ScreenSpaceAmbientOcclusion' within your:
+
+Openframeworks Dir / Apps / examples
+
+That way, things should work quite easily.
