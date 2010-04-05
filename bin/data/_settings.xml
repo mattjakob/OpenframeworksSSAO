@@ -1,0 +1,30 @@
+<controls>
+    <Toggle_Blur_Step>
+        <name>Blur Step</name>
+        <value>0</value>
+    </Toggle_Blur_Step>
+    <SliderFloat_totStrength>
+        <name>totStrength</name>
+        <value>0.892285</value>
+    </SliderFloat_totStrength>
+    <SliderFloat_ssaoStrength>
+        <name>ssaoStrength</name>
+        <value>0.262637</value>
+    </SliderFloat_ssaoStrength>
+    <SliderFloat_ssaoOffset>
+        <name>ssaoOffset</name>
+        <value>20.097656</value>
+    </SliderFloat_ssaoOffset>
+    <SliderFloat_ssaoFalloff>
+        <name>ssaoFalloff</name>
+        <value>0.000000</value>
+    </SliderFloat_ssaoFalloff>
+    <SliderFloat_ssaoRad>
+        <name>ssaoRad</name>
+        <value>0.004412</value>
+    </SliderFloat_ssaoRad>
+    <Toggle_Camera_Rotate>
+        <name>Camera Rotate</name>
+        <value>1</value>
+    </Toggle_Camera_Rotate>
+</controls>
